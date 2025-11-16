@@ -43,7 +43,7 @@ export default function HeroTimer({ theme }) {
 
         {/* little tomoe overlay for vibe */}
         <div className="pointer-events-none mt-6 flex justify-center">
-          <img src="/assets/sharingan.png" alt="sharingan" className="w-36 h-36 opacity-8 animate-spin-slow" />
+          <img src="/assets/sharingan.png" alt="sharingan" className="w-36 h-36 animate-spin-slow" />
         </div>
       </motion.div>
     </section>
